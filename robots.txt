@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /stat
+Disallow: /404
+Disallow: /i
+Host: lentochka.pro
